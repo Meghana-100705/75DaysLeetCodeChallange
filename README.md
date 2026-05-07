@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0739-daily-temperatures) |
+| [0904-fruit-into-baskets](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0977-squares-of-a-sorted-array) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/3643-flip-square-submatrix-vertically) |
 ## Hash Table
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0904-fruit-into-baskets) |
 ## Sorting
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0904-fruit-into-baskets) |
 ## Stack
 |  |
 | ------- |
