@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0977-squares-of-a-sorted-array) |
 ## String
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0704-binary-search) |
 ## Dynamic Programming
 |  |
@@ -157,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0268-missing-number](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0268-missing-number) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -218,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0572-subtree-of-another-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
