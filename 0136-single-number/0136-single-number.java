@@ -6,10 +6,16 @@ class Solution {
     //         res=res^nums[i];
     //     }
     //    return res;
-          int res=0;
-          for(int i=0;i<nums.length;i++){
+        //   int res=0;
+        //   for(int i=0;i<nums.length;i++){
+        //     res^=nums[i];
+        //   }
+        //   return res;
+        int res=0;
+        for(int i=0;i<nums.length;i++){
             res^=nums[i];
-          }
-          return res;
+
+        }
+        return res;
     }
 }
