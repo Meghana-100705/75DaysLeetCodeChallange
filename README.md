@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0704-binary-search) |
 ## Dynamic Programming
 |  |
@@ -248,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0268-missing-number) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
