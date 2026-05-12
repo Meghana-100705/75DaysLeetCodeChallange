@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0268-missing-number) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0268-missing-number) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0268-missing-number) |
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -98,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0451-sort-characters-by-frequency) |
 ## Quickselect
