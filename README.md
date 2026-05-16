@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0169-majority-element) |
@@ -268,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0278-first-bad-version) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
