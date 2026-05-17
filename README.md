@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0084-largest-rectangle-in-histogram) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0160-intersection-of-two-linked-lists) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0074-search-a-2d-matrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/3643-flip-square-submatrix-vertically) |
 ## Binary Search
