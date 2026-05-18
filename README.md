@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0977-squares-of-a-sorted-array) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/1248-count-number-of-nice-subarrays) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/2553-separate-the-digits-in-an-array) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/3643-flip-square-submatrix-vertically) |
 ## Hash Table
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0904-fruit-into-baskets) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/1248-count-number-of-nice-subarrays) |
 ## Sorting
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0560-subarray-sum-equals-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/1248-count-number-of-nice-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0904-fruit-into-baskets) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/1248-count-number-of-nice-subarrays) |
 ## Stack
 |  |
 | ------- |
@@ -198,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0268-missing-number) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/1248-count-number-of-nice-subarrays) |
 ## Monotonic Stack
 |  |
 | ------- |
