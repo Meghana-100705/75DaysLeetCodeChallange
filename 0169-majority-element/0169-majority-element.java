@@ -34,18 +34,27 @@ class Solution {
         // }
         // }
         // return -1;
-        int n=nums.length/2;
-        HashMap<Integer,Integer> hmap=new HashMap<>();
+        // int n=nums.length/2;
+        // HashMap<Integer,Integer> hmap=new HashMap<>();
+        // for(int num:nums){
+        //     hmap.put(num,hmap.getOrDefault(num,0)+1);
+        // }
+        // int res=0;
+        // for(int i=0;i<nums.length;i++){
+        //     if(hmap.get(nums[i])>n){
+        //         res=nums[i];
+        //     }
+        // }
+        // return res;
+        int count=0;
+        int candidate=0;
         for(int num:nums){
-            hmap.put(num,hmap.getOrDefault(num,0)+1);
-        }
-        int res=0;
-        for(int i=0;i<nums.length;i++){
-            if(hmap.get(nums[i])>n){
-                res=nums[i];
+            if(count==0){
+                candidate=num;
             }
+            count+=(num==candidate)?1:-1;
         }
-        return res;
+        return candidate;
     }
 
 }
