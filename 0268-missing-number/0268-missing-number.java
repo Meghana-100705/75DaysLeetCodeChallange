@@ -14,12 +14,18 @@ class Solution {
         //     xor^=nums[i];
         // }
         // return xor;
-        int n=nums.length;
-        int expected=n*(n+1)/2;
-        int actual=0;
-        for(int i=0;i<n;i++){
-            actual+=nums[i];
+        // int n=nums.length;
+        // int expected=n*(n+1)/2;
+        // int actual=0;
+        // for(int i=0;i<n;i++){
+        //     actual+=nums[i];
+        // }
+        // return expected-actual;
+        int xor=nums.length;
+        for(int i=0;i<nums.length;i++){
+            xor^=i;
+            xor^=nums[i];
         }
-        return expected-actual;
+        return xor;
     }
 }
