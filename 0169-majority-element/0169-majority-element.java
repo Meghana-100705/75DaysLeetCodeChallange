@@ -24,16 +24,28 @@ class Solution {
         // }
         // return -1;
 
+        // HashMap<Integer,Integer> hmap=new HashMap<>();
+        // for(int i=0;i<nums.length;i++){
+        //     hmap.put(nums[i],hmap.getOrDefault(nums[i],0)+1);
+        // }
+        // for(int key:hmap.keySet()){
+        // if(hmap.get(key)>nums.length/2){
+        //     return key;
+        // }
+        // }
+        // return -1;
+        int n=nums.length/2;
         HashMap<Integer,Integer> hmap=new HashMap<>();
+        for(int num:nums){
+            hmap.put(num,hmap.getOrDefault(num,0)+1);
+        }
+        int res=0;
         for(int i=0;i<nums.length;i++){
-            hmap.put(nums[i],hmap.getOrDefault(nums[i],0)+1);
+            if(hmap.get(nums[i])>n){
+                res=nums[i];
+            }
         }
-        for(int key:hmap.keySet()){
-        if(hmap.get(key)>nums.length/2){
-            return key;
-        }
-        }
-        return -1;
+        return res;
     }
 
 }
