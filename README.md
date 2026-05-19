@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0977-squares-of-a-sorted-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/1248-count-number-of-nice-subarrays) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/2553-separate-the-digits-in-an-array) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/3643-flip-square-submatrix-vertically) |
 ## Hash Table
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/1248-count-number-of-nice-subarrays) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Sorting
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0451-sort-characters-by-frequency) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Quickselect
 |  |
 | ------- |
