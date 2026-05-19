@@ -19,24 +19,24 @@ class Solution {
     // //             }
     // //         }
     // //         return false;
-    // // Arrays.sort(nums);
-    // // int count=1;
-    // // int longest=1;
-    // // if(nums.length==0) return 0;
-    // // for(int i=0;i<nums.length-1;i++){
-    // //     if(nums[i]+1==nums[i+1]){
-    // //         count++;
-    // //     }
-    // //     else if(nums[i]==nums[i+1]){
-    // //         continue;
-    // //     }
-    // //     else{
-    // //         longest=Math.max(longest,count);
-    // //         count=1;
-    // //     }
-    // // }
-    // // longest=Math.max(longest,count);
-    // // return longest;
+    Arrays.sort(nums);
+    int count=1;
+    int longest=1;
+    if(nums.length==0) return 0;
+    for(int i=0;i<nums.length-1;i++){
+        if(nums[i]+1==nums[i+1]){
+            count++;
+        }
+        else if(nums[i]==nums[i+1]){
+            continue;
+        }
+        else{
+            longest=Math.max(longest,count);
+            count=1;
+        }
+    }
+    longest=Math.max(longest,count);
+    return longest;
     // HashSet<Integer> hset=new HashSet<>();
     // for(int num:nums){
     //     hset.add(num);
@@ -54,22 +54,22 @@ class Solution {
     // }
     // }
     // return longest;
-    HashSet<Integer> hset=new HashSet<>();
-    for(int num:nums){
-        hset.add(num);
-    }
-    int longest=0;
-    for(int num:hset){
-    if(!hset.contains(num-1)){
-        int curr=num;
-        int count=1;
-        while(hset.contains(curr+1)){
-            curr++;
-            count++;
-        }
-        longest=Math.max(count,longest);
-    }
-    }
-    return longest;
+    // HashSet<Integer> hset=new HashSet<>();
+    // for(int num:nums){
+    //     hset.add(num);
+    // }
+    // int longest=0;
+    // for(int num:hset){
+    // if(!hset.contains(num-1)){
+    //     int curr=num;
+    //     int count=1;
+    //     while(hset.contains(curr+1)){
+    //         curr++;
+    //         count++;
+    //     }
+    //     longest=Math.max(count,longest);
+    // }
+    // }
+    // return longest;
     }  
 }
