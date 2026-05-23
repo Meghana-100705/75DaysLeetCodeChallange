@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0977-squares-of-a-sorted-array) |
+| [1046-last-stone-weight](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/1046-last-stone-weight) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/1248-count-number-of-nice-subarrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0451-sort-characters-by-frequency) |
+| [1046-last-stone-weight](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
