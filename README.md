@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0977-squares-of-a-sorted-array) |
+| [0997-find-the-town-judge](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/1046-last-stone-weight) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/1248-count-number-of-nice-subarrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0904-fruit-into-baskets) |
+| [0997-find-the-town-judge](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0997-find-the-town-judge) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/1248-count-number-of-nice-subarrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -345,4 +347,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0621-task-scheduler) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
