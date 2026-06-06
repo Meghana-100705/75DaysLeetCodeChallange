@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0076-minimum-window-substring) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0121-best-time-to-buy-and-sell-stock) |
