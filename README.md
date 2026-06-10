@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0074-search-a-2d-matrix) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0169-majority-element) |
