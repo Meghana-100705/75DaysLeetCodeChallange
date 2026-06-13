@@ -21,11 +21,13 @@ class Solution {
         //     actual+=nums[i];
         // }
         // return expected-actual;
-        int xor=nums.length;
-        for(int i=0;i<nums.length;i++){
-            xor^=i;
-            xor^=nums[i];
+        int n=nums.length;
+        int actualsum=n*(n+1)/2;
+        int expectedsum=0;
+        for(int i=0;i<n;i++){
+            expectedsum+=nums[i];
         }
-        return xor;
+        return actualsum-expectedsum;
+
     }
 }
