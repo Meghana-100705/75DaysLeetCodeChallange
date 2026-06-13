@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0451-sort-characters-by-frequency) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0977-squares-of-a-sorted-array) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0746-min-cost-climbing-stairs) |
 ## Sliding Window
