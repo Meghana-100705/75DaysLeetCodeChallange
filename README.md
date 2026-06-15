@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0125-valid-palindrome) |
 | [0212-word-search-ii](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0212-word-search-ii) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0189-rotate-array) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0657-robot-return-to-origin) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/2553-separate-the-digits-in-an-array) |
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0191-number-of-1-bits) |
