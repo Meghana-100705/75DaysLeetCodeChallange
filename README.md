@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/1046-last-stone-weight) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/1248-count-number-of-nice-subarrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/2553-separate-the-digits-in-an-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0977-squares-of-a-sorted-array) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 ## String
 |  |
 | ------- |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/1248-count-number-of-nice-subarrays) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -410,4 +413,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0509-fibonacci-number) |
+## Geometry
+|  |
+| ------- |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
+## Number Theory
+|  |
+| ------- |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 <!---LeetCode Topics End-->
