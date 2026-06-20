@@ -8,27 +8,27 @@ class Solution {
         int right = height.length - 1;
         int leftMax = 0;
         int rightMax = 0;
-        int totalWater = 0;
+        int total = 0;
         
         while (left < right) {
             if (height[left] <= height[right]) {
                 if (height[left] >= leftMax) {
                     leftMax = height[left];
                 } else {
-                    totalWater += leftMax - height[left];
+                    total += leftMax - height[left];
                 }
                 left++;
             } else {
                 if (height[right] >= rightMax) {
                     rightMax = height[right];
                 } else {
-                    totalWater += rightMax - height[right];
+                    total += rightMax - height[right];
                 }
                 right--;
             }
         }
         
-        return totalWater;
+        return total;
 
     }
 }
