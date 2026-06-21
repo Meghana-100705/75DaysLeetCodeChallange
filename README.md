@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0070-climbing-stairs) |
