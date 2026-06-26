@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/2784-check-if-array-is-good) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/3643-flip-square-submatrix-vertically) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2784-check-if-array-is-good](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/2784-check-if-array-is-good) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0347-top-k-frequent-elements) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0560-subarray-sum-equals-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/1248-count-number-of-nice-subarrays) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -432,4 +436,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
+## Segment Tree
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/3739-count-subarrays-with-majority-element-ii) |
 <!---LeetCode Topics End-->
