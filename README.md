@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0300-longest-increasing-subsequence) |
+| [0303-range-sum-query-immutable](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0724-find-pivot-index) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/1248-count-number-of-nice-subarrays) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0303-range-sum-query-immutable) |
 ## Queue
 |  |
 | ------- |
