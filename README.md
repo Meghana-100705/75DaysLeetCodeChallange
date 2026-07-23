@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0746-min-cost-climbing-stairs) |
 | [0904-fruit-into-baskets](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0904-fruit-into-baskets) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/1046-last-stone-weight) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0347-top-k-frequent-elements) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0918-maximum-sum-circular-subarray) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0746-min-cost-climbing-stairs) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0918-maximum-sum-circular-subarray) |
 ## Sliding Window
 |  |
 | ------- |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0232-implement-queue-using-stacks) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0918-maximum-sum-circular-subarray) |
 ## Math
 |  |
 | ------- |
@@ -459,4 +463,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/1757-recyclable-and-low-fat-products) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
