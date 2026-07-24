@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/1046-last-stone-weight) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/1248-count-number-of-nice-subarrays) |
+| [2140-solving-questions-with-brainpower](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/2140-solving-questions-with-brainpower) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0918-maximum-sum-circular-subarray) |
+| [2140-solving-questions-with-brainpower](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/2140-solving-questions-with-brainpower) |
 ## Sliding Window
 |  |
 | ------- |
