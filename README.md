@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0746-min-cost-climbing-stairs) |
+| [0875-koko-eating-bananas](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0977-squares-of-a-sorted-array) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0875-koko-eating-bananas) |
 ## Dynamic Programming
 |  |
 | ------- |
