@@ -488,4 +488,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0918-maximum-sum-circular-subarray) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Meghana-100705/75DaysLeetCodeChallange/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
